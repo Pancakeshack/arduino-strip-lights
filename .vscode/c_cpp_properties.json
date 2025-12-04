@@ -8,6 +8,7 @@
             "intelliSenseMode": "gcc-x64",
             "includePath": [
                 "${workspaceFolder}/**",
+                "${HOME}/Documents/Arduino/libraries/Adafruit_NeoPixel",
                 "${HOME}/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino",
                 "${HOME}/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/eightanaloginputs",
                 "${HOME}/Library/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include",
@@ -39,6 +40,7 @@
             "includePath": [
                 "/Users/austintownsend/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino",
                 "/Users/austintownsend/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/eightanaloginputs",
+                "/Users/austintownsend/Documents/Arduino/libraries/Adafruit_NeoPixel",
                 "/Users/austintownsend/Library/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/lib/gcc/avr/7.3.0/include",
                 "/Users/austintownsend/Library/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/lib/gcc/avr/7.3.0/include-fixed",
                 "/Users/austintownsend/Library/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include"
